@@ -1,5 +1,7 @@
 ## PlanB
 ```
+Long Bitcoin, Short the world.
+
 About bitcoin and block chain
 ```
 
