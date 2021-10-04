@@ -1,6 +1,17 @@
-# PlanB
-planB information
+## PlanB
+```
+About bitcoin and block chain
+```
 
-```
-About bitcoin and block chain information
-```
+
+
+## Menu
+
+### KOL
+
+​		Some articles by bitcoin HODLER or people who love bitcoin.
+
+## BOOK
+
+​		Some books related bitcoin and block chain
+
